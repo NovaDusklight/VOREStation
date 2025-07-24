@@ -481,6 +481,7 @@
 #include "code\datums\ghost_query.dm"
 #include "code\datums\ghost_query_vr.dm"
 #include "code\datums\ghost_spawn.dm"
+#include "code\datums\ghost_spawn_helper.dm"
 #include "code\datums\ghost_spawn_options.dm"
 #include "code\datums\hierarchy.dm"
 #include "code\datums\json_savefile.dm"
